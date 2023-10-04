@@ -229,7 +229,7 @@ class _ChartState extends State<Chart> {
                       const Expanded(
                         child: TabBarView(
                           children: <Widget>[
-                          //   oneday(),
+                             oneday(),
                           //   oneweek(),
                           //   onemonth(),
                           //   oneyear(),
